@@ -320,6 +320,17 @@ html {
     letter-spacing: 0.5px;
 }
 
+.section-heading button {
+    font-size: 23px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.section-heading a{
+    text-decoration: none;
+}
+
 
 /* Buttons */
 
@@ -333,6 +344,7 @@ html {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     transition: all 0.5s;
+    border-radius: 5px;
 }
 
 .white-button a:hover {
@@ -353,6 +365,7 @@ button {
     border: none;
     outline: none;
     cursor: pointer;
+    
 }
 
 button:hover {
